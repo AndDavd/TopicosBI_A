@@ -1,7 +1,9 @@
-# Repositorio Demostrativo
-Este repositorio simula la interactividad como si trabajaran con Google Colab
-##
-###
+# Repositorio Topicos Especiales
+Lenguaje de Programación para manejo de grandes volumenes de datos
+## Lenguaje Programación
+Python
+### Autor
+Camacho Zamora Anderson 
 ####
 #####
 ######
